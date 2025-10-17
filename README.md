@@ -1,7 +1,7 @@
 # NBA Game Outcomes — Exploratory Data Analysis (2020–2024)
 
-This project investigates team- and player-level statistical trends associated with NBA regular-season wins from 2020–2024.  
-All analyses are reproducible and run end-to-end in `nba_eda.ipynb`.
+This project investigates team level statistical trends associated with NBA regular-season wins from 2020–2024.  
+All analyses are reproducible and run end-to-end in `EDA.ipynb`.
 
 ---
 
